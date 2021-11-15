@@ -1,6 +1,6 @@
 {
-  "name": "ANDY-BOTZ",
-  "version": "3.5.2",
+  "name": "JULBOT",
+  "version": "3.5.3",
   "description": "Hooh",
   "depecrated": false,
   "main": "index.js",
@@ -19,16 +19,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/andyjavadams/botwa",
+  "homepage": "https://github.com/ZulGanzy/gatauu",
   "author": {
-    "name": "Andy"
+    "name": "ZulGanzy"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andyjavadams/botwa.git"
+    "url": "git+https://github.com/ZulGanzy/gatauu.git"
   },
   "bugs": {
-    "url": "https://github.com/andyjavadams/issues"
+    "url": "https://github.com/ZulGanzy/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
