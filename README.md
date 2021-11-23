@@ -1,11 +1,11 @@
-# ZUL-BOT
+# Zerone-BOT
 
 # PENTING!!!
 ### Delete tengsto : WhatsApp kenon
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZulGanzy/zul-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZeronoC/apaya)
 ## LAIN-LAIN
 
 * [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Nurutomo/wabot-aq) **(Sc ori**)
@@ -20,8 +20,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/ZulGanzy/zul-bot
-cd zul-bot
+git clone https://github.com/ZeronoC/apaya
+cd apaya
 npm install
 npm update
 ```
@@ -36,8 +36,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ZulGanzy/zul-bot
-cd zul-bot
+git clone https://github.com/ZeronoC/apaya
+cd apaya
 npm install
 npm update
 ```
