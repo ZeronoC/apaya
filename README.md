@@ -2,9 +2,11 @@
 
 # PENTING!!!
 # Instal Buildpack
+```bash
 heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+```
 ### Delete tengsto : WhatsApp kenon
 
 Simple WhatsApp Bot
